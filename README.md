@@ -74,5 +74,5 @@ plot_pacf(ARMA_2)
 
 
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
